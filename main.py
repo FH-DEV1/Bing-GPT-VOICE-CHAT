@@ -1,4 +1,3 @@
-import openai
 import asyncio
 import re
 import whisper
