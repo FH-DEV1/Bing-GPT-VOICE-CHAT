@@ -5,17 +5,17 @@ Clone this repo using :
 ```bash
 git clone https://github.com/FH-DEV1/PI-VOICE-CHAT
 ```
+You then need to move into the folder that just created :
+```bash
+cd PI-VOICE-CHAT
+```
 Install all libraries using package manager pip :
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Usage
-Once you succesfully installed all the libraries move into the cloned repo :
-```bash
-cd PI-VOICE-CHAT
-```
-You can then start the program by doing :
+Once you succesfully installed all the libraries you can then start the program by doing :
 ```bash
 python3 main.py
 ```
