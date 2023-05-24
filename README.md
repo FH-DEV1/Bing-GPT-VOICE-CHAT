@@ -1,5 +1,5 @@
 # PI-VOICE-CHAT
-Pi voice-chat pretty much describes itself : it is a voice assistant that interacts with Bing AI wich is basically an up-to-date version of Chat-GPT. The wake word is "egg" and default language is french.
+Bing/GPT voice-chat pretty much describes itself : it is a voice assistant that interacts with Bing AI wich is basically an up-to-date version of Chat-GPT. The wake word is "egg" and default language is french.
 ## Installation
 Clone this repo using :
 ```bash
