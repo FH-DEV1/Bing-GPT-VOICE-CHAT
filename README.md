@@ -3,11 +3,11 @@ Bing/GPT voice-chat pretty much describes itself : it is a voice assistant that 
 ## Installation
 Clone this repo using :
 ```bash
-git clone https://github.com/FH-DEV1/PI-VOICE-CHAT
+git clone https://github.com/FH-DEV1/Bing-GPT-VOICE-CHAT
 ```
 You then need to move into the folder that just created :
 ```bash
-cd PI-VOICE-CHAT
+cd Bing-GPT-VOICE-CHAT
 ```
 Install all libraries using package manager pip :
 ```bash
